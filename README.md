@@ -27,7 +27,7 @@
 
 ### 💻 Key Projects
 
-#### 🏥 [FHIR-Compliant Patient Data Aggregator](https://github.com/YOUR_USERNAME/PROJECT_REPO](https://github.com/samriddhicodes/fhir-patient-aggregator)
+#### 🏥 [FHIR-Compliant Patient Data Aggregator](https://github.com/samriddhicodes/fhir-patient-aggregator]
 > **Technologies:** `Python` `FastAPI` `PostgreSQL` `Pydantic`
 * Built a FastAPI microservice ingesting nested clinical payloads from a live public SMART on FHIR R4 registry.
 * Engineered an idempotent caching layer using PostgreSQL JSONB with containment (`@>`) operators for high-speed indexing.
