@@ -27,22 +27,22 @@
 
 ### 💻 Key Projects
 
-#### 🏥 [FHIR-Compliant Patient Data Aggregator](https://github.com/samriddhicodes/fhir-patient-aggregator]
+#### 🏥 [FHIR-Compliant Patient Data Aggregator](https://github.com/samriddhicodes/fhir-patient-aggregator)
 > **Technologies:** `Python` `FastAPI` `PostgreSQL` `Pydantic`
 * Built a FastAPI microservice ingesting nested clinical payloads from a live public SMART on FHIR R4 registry.
 * Engineered an idempotent caching layer using PostgreSQL JSONB with containment (`@>`) operators for high-speed indexing.
 
-#### 🫀 [Real-Time Cardiac Telemetry System]([https://github.com/YOUR_USERNAME/PROJECT_REPO](https://github.com/samriddhicodes/cardiac-telemetry-firmware))
+#### 🫀 [Real-Time Cardiac Telemetry System](https://github.com/samriddhicodes/cardiac-telemetry-firmware)
 > **Technologies:** `C++17` `Node.js` `React` `WebSocket`
 * Simulated a 500Hz ECG signal generator with a thread-safe circular buffer detecting R-peaks for real-time BPM and cardiac alert detection.
 * Streamed live telemetry over TCP/WebSockets to a scrolling React UI display.
 
-#### 📚 [The Bradbury Challenge]([https://github.com/YOUR_USERNAME/PROJECT_REPO](https://github.com/samriddhicodes/bradbury-challenge))
+#### 📚 [The Bradbury Challenge](https://github.com/samriddhicodes/bradbury-challenge)
 > **Technologies:** `Next.js` `TypeScript` `Supabase` `PostgreSQL`
-* Full-stack reading tracker designed around Ray Bradbury’s 1,000-night creative exercise.
+* Full-stack reading tracker designed around Ray Bradbury's 1,000-night creative exercise.
 * Integrates three live APIs (*PoetryDB*, *Gutendex*, *Aeon RSS*) with interactive search, RLS auth, and streak tracking.
 
-#### 🌱 [CO2ML: Carbon Emissions Predictor]([https://github.com/YOUR_USERNAME/PROJECT_REPO](https://github.com/nicholassmithgall/sigAIDA-energy-analysis))
+#### 🌱 [CO2ML: Carbon Emissions Predictor](https://github.com/nicholassmithgall/sigAIDA-energy-analysis)
 > **Technologies:** `Python` `XGBoost` `LightGBM` `Flask` `PowerBI`
 * Machine learning system predicting state-level $CO_2$ emissions ($R^2 = 0.94$, $\text{RMSE} = 3.2$ tonnes).
 * Live interactive demo powered by a Flask backend with embedded PowerBI analytics.
